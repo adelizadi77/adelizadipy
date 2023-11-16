@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 bale manam hastam
+=======
+khob khob in change az bc hast
+>>>>>>> bc
